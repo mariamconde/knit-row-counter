@@ -1,4 +1,4 @@
-# coa564b27988e1bd618dc5a8b
+# Knit row counter app
 
 Quick start:
 
