@@ -1,0 +1,48 @@
+body {
+    background-color: #d1b3c4;
+    background-size: cover;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 1px 5px 5px #735d78;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px #735d78;
+    font-size: 50px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    
+}
+
+#increment-btn {
+    background: #735d78;
+}
+#decrement-btn {
+    background: #735d78;
+}
+#save-btn {
+    background: #b392ac;
+}
+
